@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HlPduCsmlupE8pFWVkFwr+pSqARrsxLpWH/aliZk7V9HJUF+Ci7a/imCzfKpmjK2MP/t6ScigsWH/1WeKMrsfw==",
+  "success": true,
+  "projectFilePath": "/Users/rubensagnelo/projetos/sprofti/src/sprofti.carteira/sprofti.carteira.csproj",
+  "expectedPackageFiles": [
+    "/Users/rubensagnelo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/rubensagnelo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/rubensagnelo/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/rubensagnelo/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/rubensagnelo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/rubensagnelo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
